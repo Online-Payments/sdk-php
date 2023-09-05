@@ -1,5 +1,5 @@
 {
-    "name": "Online-Payments/sdk-php",
+    "name": "online-payments/sdk-php",
     "type": "library",
     "description": "PHP SDK to communicate with the payment platform server-to-server API",
     "keywords": ["SDK"],

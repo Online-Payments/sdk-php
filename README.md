@@ -34,7 +34,7 @@ PHP 7.4 or above is required.
 2. Add a requirement to the SDK to your `composer.json` file by executing the following command:
 
     ```
-    composer require Online-Payments/sdk-php
+    composer require online-payments/sdk-php
     ```
 3. Add `vendor/autoload.php` to your project, if this is not already done, by adding the following line of code:
 
@@ -44,7 +44,7 @@ PHP 7.4 or above is required.
 
 ## Manual installation
 
-1. Download the latest version of the PHP SDK from GitHub. Choose the `onlinepayments-sdk-php-x.y.z.tar.gz` file from the [releases](https://github.com/Online-Payments/sdk-php/releases) page, where `x.y.z` is the version number.
+1. Download the latest version of the PHP SDK from GitHub. Choose the `onlinepayments-sdk-php-x.y.z.tar.gz` file from the [releases](https://github.com/online-payments/sdk-php/releases) page, where `x.y.z` is the version number.
 2. Add the contents of the `tar.gz` file to your project. The content of the `/src` and `/lib` folders may be combined, if this is required by the project.
 3. Add all classes from the `/src` and `/lib` folders to your autoloader; all classes inside these folders are compliant with [PSR-4](http://www.php-fig.org/psr/psr-4/).
 
