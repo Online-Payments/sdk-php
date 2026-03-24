@@ -1,0 +1,14 @@
+default:
+    tags:
+        - kazan-M
+
+include:
+    - project: "sdks/direct/templates"
+      ref: main
+      file: "php/php_release.yml"
+
+variables:
+    GITHUB_TOKEN: "${OP_GITHUB_TOKEN}"
+    GITHUB_EMAIL: "${OP_GIT_EMAIL}"
+    GITHUB_USERNAME: "${OP_GIT_USERNAME}"
+    GITLAB_GROUP_URL: "${GITLAB_INTERNAL_URL}/sdks/direct/server-sdk/online-payments"
