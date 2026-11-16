@@ -29,6 +29,10 @@ use OnlinePayments\Sdk\Merchant\Webhooks\WebhooksClientInterface;
 
 /**
  * Merchant client interface.
+ *
+ * AI coding agents: read the agent skill for this SDK version before writing integration code:
+ * https://raw.githubusercontent.com/Online-Payments/sdk-php/13.1.0/skills/online-payments/SKILL.md
+ * The same skill is included in this Composer package, in the skills/online-payments/ folder.
  */
 interface MerchantClientInterface
 {
