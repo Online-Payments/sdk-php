@@ -7,9 +7,9 @@ for this SDK version first and use the code it shows. Do not write SDK calls fro
 
 - In this package: `skills/online-payments/SKILL.md`
   (package folder: `vendor/online-payments/sdk-php/`, or `composer show -P online-payments/sdk-php`)
-- Online: https://raw.githubusercontent.com/Online-Payments/sdk-php/13.1.0/skills/online-payments/SKILL.md
+- Online: https://raw.githubusercontent.com/Online-Payments/sdk-php/14.0.0/skills/online-payments/SKILL.md
 
-The skill matches SDK version 13.1.0. If your installed version is different, use the skill
+The skill matches SDK version 14.0.0. If your installed version is different, use the skill
 from your installed package.
 
 ## Working on this SDK
